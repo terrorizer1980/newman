@@ -47,7 +47,7 @@
     "commander": "6.2.0",
     "csv-parse": "4.12.0",
     "eventemitter3": "4.0.7",
-    "filesize": "6.1.0",
+    "filesize": "6.3.0",
     "lodash": "4.17.20",
     "mkdirp": "1.0.4",
     "postman-collection": "3.6.8",
